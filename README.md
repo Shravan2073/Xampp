@@ -1,5 +1,7 @@
 for database, add where "admin" is the admin user idand password is "admin" too put this in the sql tab and hit go !!!
 
+enter this and you will create a new DB and can start using the app. 
+
 
 ~~~mysql
 CREATE DATABASE IF NOT EXISTS file_management;
