@@ -1,7 +1,7 @@
 for database, add where "admin" is the admin user idand password is "admin" too put this in the sql tab and hit go !!!
 
 
-'''mysql
+~~~mysql
 CREATE DATABASE IF NOT EXISTS file_management;
 USE file_management;
 
@@ -33,4 +33,4 @@ CREATE TABLE IF NOT EXISTS files (
 
 -- Insert admin user
 INSERT INTO users (username, password, is_admin) VALUES ('admin', '$2y$10$Ut6yN6vHM3cnHrFle62tv.pXjmIsDnFhPzj2gJH8ZDEiKais4VsB.', 1);
-'''
+~~~
