@@ -1,3 +1,11 @@
+
+
+Just a simple php web application i made under a club at my college. it's kinda works, but
+ I need to smoothen some edges out. 
+
+
+
+
 for database, add where "admin" is the admin user id and password is "admin" too put this in the sql tab and hit go !!!
 
 enter this and you will create a new DB and can start using the app. 
